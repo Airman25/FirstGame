@@ -1,0 +1,10 @@
+C:\Users\edmun\source\repos\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\edmun\source\repos\MyGame\obj\Debug\MyGame.Game.resources
+C:\Users\edmun\source\repos\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\edmun\source\repos\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\edmun\source\repos\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\edmun\source\repos\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\edmun\source\repos\MyGame\bin\Debug\MyGame.exe
+C:\Users\edmun\source\repos\MyGame\bin\Debug\MyGame.pdb
+C:\Users\edmun\source\repos\MyGame\obj\Debug\MyGame.exe
+C:\Users\edmun\source\repos\MyGame\obj\Debug\MyGame.pdb
